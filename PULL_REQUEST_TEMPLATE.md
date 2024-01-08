@@ -12,4 +12,6 @@
 
 ### Captura de tela ou exemplo de uso:
 
-- ***
+-
+
+---
